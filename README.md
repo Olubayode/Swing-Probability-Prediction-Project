@@ -5,11 +5,16 @@ This repository contains the materials for the research project titled "Swing Pr
 
 ## Repository Contents
 main.tex: LaTeX source file for the research paper.
+
 Paper Writing DS.pdf: Compiled research paper detailing the methodologies, results, and implications of the study.
+
 Olubayode_Ebenezer_marlins_Updated.ipynb:  the code used for data processing and analysis and model,buidling. 
 data: (Note: This folder is private and accessible to project contributors only due to the sensitivity of the data.)
+
 README.md: This file, providing an overview and instructions for the repository.
-Data
+
+It also contains images and figures from the training model and evaluations
+## Data
 The dataset includes comprehensive pitch data from the Miami Marlins over three seasons, which is detailed and used under strict confidentiality agreements. The data is not publicly available and is hosted in a private section of this GitHub repository.
 
 ## Data Description
@@ -28,7 +33,7 @@ sz_top, sz_bot
 ## Methodology
 The project employs a two-phase approach:
 
-Machine Learning Phase: Development of predictive models using historical data to estimate swing probabilities based on various game situations and pitch characteristics.
+Machine Learning Phase: Development of predictive models using historical data to estimate swing probabilities based on various game situations and pitch characteristics. After buidling the model, I went ahead to do some other insights like fisning the middle middle Pitches and as well Swing Decision Efficiency (SDE). But these are not reported in the Paper Writing DS
 
 Econometric Analysis Phase: (Upcoming) To assess the economic implications of swing decisions using econometric models.
 Model Development
